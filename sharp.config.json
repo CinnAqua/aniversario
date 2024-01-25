@@ -1,5 +1,8 @@
 {
-    "png": {
+    "jpeg": {
+        "quality": 75
+    },
+    "webp": {
         "quality": 75
     }
 }
